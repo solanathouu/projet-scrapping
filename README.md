@@ -3,7 +3,7 @@
 pour utiliser le code : 
 utiliser la commande:
 
-python3 SCRAPPER_FINAL
+python3 SCRAPPER_FINAL.py
 
 il faut juste remplacer avec son cookie ligne 8 du code
 Pour trouver le cookie allez sur ce lien ---->
